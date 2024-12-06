@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav2-3&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav2-3" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](client-pearl-three.vercel.app)
+- 🔭 I’m currently working as MERN Stack Developer at FitnEarn
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [personal-portfolio-dun-omega.vercel.app](personal-portfolio-dun-omega.vercel.app)
+- 👨‍💻 All of my projects are available at [abhinav.dev](https://abhinav-dev.vercel.app/)
 
 - 💬 Ask me about **React.js, MERN**
 
