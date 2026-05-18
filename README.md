@@ -1,39 +1,58 @@
-### Hi there 👋
-![MasterHead](https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)
-<h1 align="center">Hi 👋, I'm Abhinav Maurya</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+# 💫 About Me:
+👋 Hi there! I'm **Abhinav Maurya**, a Backend-Focused Full Stack Developer with a BCA in Computer Science from AIMT Lucknow. I specialize in building production-grade systems, scalable REST APIs, and end-to-end web platforms in fast-paced startup environments. Here's a bit about me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav2-3&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav2-3" /> </p>
+💻 **Full Stack Developer (Backend-Focused)**
 
-- 🔭 I’m currently working as MERN Stack Developer at FitnEarn
+- Currently working as a Full Stack Developer at **FitnEarn**, owning backend development for core business modules across web, Android app, and admin dashboard.
+- Built and delivered **5+ production modules end-to-end**, coordinating across frontend, design, and QA teams.
+- Built scalable **REST APIs** using Node.js and Express.js, supporting concurrent users in production.
+- Optimized MongoDB queries and indexes, reducing average **API response time by 60%**.
+- Deployed and maintained services on **AWS EC2 and S3**, improving uptime and deployment reliability.
+- Integrated **OpenAI & Google Gemini APIs** for AI-powered product features including voice-based conversational AI.
+- Implemented **JWT-based authentication** and role-based access control for secure, production-ready user management.
 
-- 🌱 I’m currently learning **AWS**
+🚀 **Projects**
 
-- 👨‍💻 All of my projects are available at [abhinav.dev](https://abhinav-dev.vercel.app/)
+- **Avira.ai** – AI Interview Platform powered by Google Gemini 2.5 with real-time voice interaction, 3D holographic interviewer (Three.js), and adaptive question generation from resume & JD.
+- **Digital Wallet App** – Peer-to-peer wallet with PostgreSQL (ACID compliance), Redis caching (75% faster responses), and full RESTful API architecture.
 
-- 💬 Ask me about **React.js, MERN**
+📊 **Skills & Tools**
 
-- 📫 How to reach me **abhinavmaurya476@gmail.com**
+- **Languages:** TypeScript, JavaScript, SQL
+- **Backend:** Node.js, Express.js, REST APIs, Prompt Engineering, OpenAI APIs
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS, Framer-Motion
+- **Databases:** PostgreSQL, MongoDB
+- **Infrastructure:** AWS (EC2, S3, Lambda), Redis, Docker, Git/GitHub, Postman
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13nevlMbEOJ8WZjYutRH7f_f-JlledTei/view?usp=sharing](https://drive.google.com/file/d/13nevlMbEOJ8WZjYutRH7f_f-JlledTei/view?usp=sharing)
+I'm always excited to collaborate, learn, and ship impactful products. Let's connect and build something amazing together!
 
-- ⚡ Fun fact **I think i'm a Funny Guy**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nx.abhinav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav2-3/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/abhinav2-3) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://abhinav-sde.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhinav_476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav_476" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav28" height="30" width="40" /></a>
-<a href="https://instagram.com/nx.abhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nx.abhinav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinav2-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav2-3" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔝 Featured Projects
+- 🤖 **Avira.ai** – AI Interview Platform | [Live Demo](https://abhinav-sde.vercel.app/)
+  - Voice-based conversational AI with Google Gemini 2.5
+  - Context-aware question generation with adaptive difficulty
+  - 3D holographic interviewer using Three.js
+- 💳 **Digital Wallet App** – P2P Wallet | [Live Demo](https://abhinav-sde.vercel.app/)
+  - PostgreSQL with ACID compliance + Redis caching (75% faster)
+  - JWT auth + RBAC + full RESTful API architecture
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav2-3&show_icons=true&locale=en&layout=compact" alt="abhinav2-3" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhinav2-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav2-3&show_icons=true&locale=en" alt="abhinav2-3" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav2-3&" alt="abhinav2-3" /></p>
+### 🔝 Top Languages & Activity
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2-3&layout=compact&theme=radical&langs_count=8)
 
+### 📈 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav2-3&theme=radical)
+
+### 🏅 Certifications
+- HackerRank React.js Certified
+- Postman API Fundamentals Student Expert
